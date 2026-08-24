@@ -152,7 +152,7 @@ def main():
 
     count = extract_newc(result.stdout, output)
 
-    if count != 654:
+    if count != 686:
         raise SystemExit(
             f'unexpected stock vendor ramdisk entry count: {count}'
         )
