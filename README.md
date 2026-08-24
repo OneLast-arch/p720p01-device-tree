@@ -1,6 +1,6 @@
-# TWRP for ZTE 7552N / P720S20
+# TWRP for ZTE W20Xds / P720P01
 
-TeamWin Recovery Project 12.1 device tree for the ZTE 7552N (`P720S20`,
+TeamWin Recovery Project 12.1 device tree for the ZTE 7552N (`P720P01`,
 `ums9620_2h10`) running Android 13.
 
 ## Current build
